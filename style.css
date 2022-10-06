@@ -1,7 +1,13 @@
 * {
     font-family: sans-serif;
+    color: rgb(28, 92, 28)
 }
 
 header {
     text-align: center;
+}
+
+.active {
+    text-decoration: none;
+    font-weight: bold;
 }
